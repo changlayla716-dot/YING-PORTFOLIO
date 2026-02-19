@@ -29,7 +29,7 @@ Compilation of YING's Works
 <br>
 
 ### 📄 Case Studies & English Works
-1. **[Project Name A]** - Full UX Case Study in English | [View PDF](FINAL YINGZHANG.pdf)
+1. **[Project Name A]** - Full UX Case Study in English | [View PDF](FINALYINGZHANG.pdf)
 2. **[Project Name B]** - XR Spatial Interaction Research | [View PDF](English_Portfolio_2.pdf)
 3. **[Project Name C]** - Mobile App Redesign (English Version) | [View PDF](English_Portfolio_3.pdf)
 
