@@ -22,5 +22,19 @@ Compilation of YING's Works
 - **查看作品**：👉 [点击查看 Game_Portfolio.pdf](你的游戏文件名.pdf)
 </details>
 
+<br>
+
+<details>
+<summary><b>🌍 English Portfolio (Global/Remote Roles)</b></summary>
+<br>
+
+### 📄 Case Studies & English Works
+1. **[Project Name A]** - Full UX Case Study in English | [View PDF](English_Portfolio_1.pdf)
+2. **[Project Name B]** - XR Spatial Interaction Research | [View PDF](English_Portfolio_2.pdf)
+3. **[Project Name C]** - Mobile App Redesign (English Version) | [View PDF](English_Portfolio_3.pdf)
+
+> **Pro Tip for International Apps**: Highlight your ability to work in cross-functional, remote, and multicultural teams.
+</details>
 ---
+
 *Contact: zhangyingzy633@163.com
