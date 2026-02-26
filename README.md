@@ -8,11 +8,16 @@ Compilation of YING's Works
 <summary><b>🎨 UI/UX 交互设计作品</b></summary>
 <br>
 
-- **项目描述**：专注于产品设计和交互结合。
+- **项目描述**：佩戴。
 - **查看作品**：👉 [点击查看 UIUX_Portfolio.pdf](你的UIUX文件名.pdf)
 </details>
 
+- **项目描述**：产品+UI 急救
+- **查看作品**：👉 [点击查看 UIUX_Portfolio.pdf](firstaid.pdf)
+</details>
+
 <br>
+
 
 <details>
 <summary><b>🎮 游戏与 XR 作品</b></summary>
