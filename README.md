@@ -13,7 +13,7 @@ Compilation of YING's Works
 </details>
 
 - **项目描述**：产品+UI 急救
-- **查看作品**：👉 [点击查看 UIUX_Portfolio.pdf](firstaid.pdf)
+- **查看作品**：👉 [点击查看 UIUX_Portfolio.pdf](assets/firstaid.pdf)
 </details>
 
 <br>
